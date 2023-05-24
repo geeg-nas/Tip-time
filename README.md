@@ -34,5 +34,5 @@
 
       
       
-<h4> Geovana Nascimento</h4>
+<h4> Geovana Nascimento & Erika Santana</h4>
 
