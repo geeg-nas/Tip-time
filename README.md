@@ -6,7 +6,7 @@
 
 
 
-<p>Durante o curso de Desenvolvimento de sistemas, na aulda de mobile aprendemos a fazer o projeto Tip Time, onde aprendemos a fazer interligação com DataContext, modelos, adaptadores e utilizar cards. </p>
+<p>Durante o curso de Desenvolvimento de sistemas, na aulda de mobile aprendemos a fazer o projeto Tip Time,  o aplicativo consiste em uma calculadora de gorjetas, com porcentagens para um atendimento maravilhoso, ótimo e ok. Utilizamos binding para utilizar os componentes. </p>
 
 ## ☕ |Linguagem utilizada: 
 <div>
